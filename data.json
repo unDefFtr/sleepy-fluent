@@ -1,0 +1,23 @@
+{
+    "status": 0,
+    "device_status": {},
+    "private_mode": false,
+    "last_updated": "1970-01-01 08:00:01",
+    "metrics": {
+        "today_is": "2025-2-16",
+        "month_is": "2025-2",
+        "year_is": "2025",
+        "today": {
+            "/query": 1
+        },
+        "month": {
+            "/query": 1
+        },
+        "year": {
+            "/query": 1
+        },
+        "total": {
+            "/query": 1
+        }
+    }
+}

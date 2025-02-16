@@ -1,0 +1,32 @@
+{
+    "version": "2024.12.31",
+    "debug": false, 
+    "host": "0.0.0.0", 
+    "port": 9010, 
+    "secret": "123456", 
+    "status_list": [ 
+        { 
+            "id": 0, 
+            "name": "活着", 
+            "desc": "目前在线，可以通过任何可用的联系方式联系本人。", 
+            "color": "awake" 
+        },
+        { 
+            "id": 1,
+            "name": "似了",
+            "desc": "睡似了或其他原因不在线，紧急情况请使用电话联系。",
+            "color": "sleeping"
+        }
+    ],
+    "refresh": 5000,
+    "data_check_interval": 30, 
+    "other": { 
+        "user": "unDefFtr", 
+        "background": "https://imgapi.siiway.top/image", 
+        "alpha": 0.85, 
+        "learn_more": "GitHub User Page", 
+        "repo": "https://github.com/unDefFtr", 
+        "more_text": "", 
+        "device_status_slice": 30 
+    }
+}
